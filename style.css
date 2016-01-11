@@ -1,16 +1,16 @@
 body {
   font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 300;
-  background-image: url(linedpaper.png);
-  background-repeat: repeat;
+  background-repeat: repeat
+  text-align: left;
 }
 #wrapper {
   width: 960px;
   margin: 20px auto 20px auto;
 }
 h1 {
-	color: #00BCD4;
-    text-align: center;
+	color: rgb(100, 100, 212);
+    text-align: left;
     font-size: xx-large;
     font-style: oblique;
 }
@@ -20,12 +20,20 @@ h4 {
 #summary {
 	color: orange;
 }
-.unicorns {
-	color: blue;
-}
-h2 {text-shadow: 1px 1px 1px black;
+h2 {
+	text-shadow: 1px 1px 1px black;
 }
 img {
-	width: 350px;
-	text-align: left;
+	width: 300px;
+}
+.icons { 
+	width:50px;
+}
+.minicon {
+	width:30px;
+}
+h5 {
+	font-size: 15px;
+	font-style: italic;
+	text-decoration: underline;
 }
