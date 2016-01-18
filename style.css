@@ -1,39 +1,26 @@
 body {
-  font-family: 'helvetica neue', arial, sans-serif;
-  font-weight: 300;
-  background-repeat: repeat
-  text-align: left;
+ font-family: 'Noto Sans', sans-serif;
 }
-#wrapper {
-  width: 960px;
-  margin: 20px auto 20px auto;
+
+h1, h2, h5, h6 {
+	font-family: 'Noto Sans', sans-serif;
 }
-h1 {
-	color: rgb(100, 100, 212);
-    text-align: left;
-    font-size: xx-large;
-    font-style: oblique;
+
+h3, h4 {
+	font-family: 'Dancing Script', cursive;
 }
-h4 {
-	color: green;
+
+.btn-info {
+	margin-bottom: 5px;
 }
-#summary {
-	color: orange;
+
+.jumbotron {
+	background-image: url(food-back.jpg);
+	background-repeat: no-repeat; 
+	background-size: cover; 
+	height: 500px;
 }
-h2 {
-	text-shadow: 1px 1px 1px black;
-}
-img {
-	width: 300px;
-}
-.icons { 
-	width:50px;
-}
-.minicon {
-	width:30px;
-}
-h5 {
-	font-size: 15px;
-	font-style: italic;
-	text-decoration: underline;
+.container {
+	margin-top: 200px;
+	margin-left: 250px;
 }
