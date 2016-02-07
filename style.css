@@ -58,9 +58,9 @@ h4, h5 {
 #video {
 	font-family: 'Raleway', sans-serif;
 }
+
 .container {
-	margin-top: 200px;
-	margin-left: 250px;
+	margin: 100px 0px 100px 250px;
 }
 
 .icons { 

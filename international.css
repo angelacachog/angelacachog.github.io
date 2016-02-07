@@ -1,5 +1,5 @@
 body {
- font-family: 'Raleway', sans-serif;;
+ font-family: 'Raleway', sans-serif;
 }
 
 h1 {
@@ -13,6 +13,7 @@ h2 {
 
 h3, h4, h5 {
 	font-family: 'Montserrat', sans-serif;
+	color: white;
 }
 
 .btn-info {
@@ -27,7 +28,10 @@ h3, h4, h5 {
 
 #navbottom {
 	color: white;
-	text-indent: 10px;
 	font-size: 30px;
 	font-family: 'Montserrat', sans-serif;
+}
+
+.container1 {
+	margin: 100px 100px 100px 250px;
 }
