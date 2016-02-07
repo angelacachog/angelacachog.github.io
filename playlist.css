@@ -1,0 +1,25 @@
+.thumbnail > img { 
+  height: 175px;
+}
+
+body {
+ font-family: 'Raleway', sans-serif;;
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;;
+	font-size: 30px;
+}
+
+h4, h5 {
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	font-size: 15px;
+}
+
+#navbottom {
+	color: white;
+	text-indent: 10px;
+	font-size: 30px;
+	font-family: 'Montserrat', sans-serif;
+}

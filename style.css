@@ -1,26 +1,68 @@
 body {
- font-family: 'Noto Sans', sans-serif;
+ font-family: 'Raleway', sans-serif;
 }
 
-h1, h2, h5, h6 {
-	font-family: 'Noto Sans', sans-serif;
+h1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
 }
 
-h3, h4 {
-	font-family: 'Dancing Script', cursive;
+h2, h3 {
+	font-family: 'Raleway', sans-serif;
+}
+
+h4, h5 {
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	font-size: 25px;
 }
 
 .btn-info {
 	margin-bottom: 5px;
 }
 
-.jumbotron {
-	background-image: url(food-back.jpg);
+#jumbo1 {
+	background-image: url(radio.jpg);
 	background-repeat: no-repeat; 
 	background-size: cover; 
 	height: 500px;
+	font-weight: bolder;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+}
+
+#jumbo2 {
+	background-image: url(party.jpg);
+	background-repeat: no-repeat; 
+	background-size: cover; 
+	text-align: bottom;
+	height: 500px;
+	font-family: 'Raleway', sans-serif;
+}
+
+#navbottom {
+	color: white;
+	text-indent: 10px;
+	font-size: 30px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+#navup {
+	font-family: 'Raleway', sans-serif;
+}
+
+#cuatro {
+	font-family: 'Raleway', sans-serif;
+}
+
+#video {
+	font-family: 'Raleway', sans-serif;
 }
 .container {
 	margin-top: 200px;
-	margin-left: 15%;
+	margin-left: 250px;
+}
+
+.icons { 
+	width:250px;
 }

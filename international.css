@@ -1,0 +1,33 @@
+body {
+ font-family: 'Raleway', sans-serif;;
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	color: black;
+}
+
+h2 {
+	font-family: 'Raleway', sans-serif;
+}
+
+h3, h4, h5 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.btn-info {
+	margin-bottom: 5px;
+}
+
+}
+.container {
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+#navbottom {
+	color: white;
+	text-indent: 10px;
+	font-size: 30px;
+	font-family: 'Montserrat', sans-serif;
+}
